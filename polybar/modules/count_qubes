@@ -1,0 +1,4 @@
+[module/count_qubes]
+type = custom/script
+exec = ~/.config/polybar/scripts/count_qubes.sh
+interval = 5
